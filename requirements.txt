@@ -1,0 +1,8 @@
+pandas
+matplotlib
+networkx
+unidecode
+fuzzywuzzy
+python-Levenshtein
+xlrd
+
